@@ -1,0 +1,78 @@
+body{
+	margin: 0;
+	font-family: playfair Display serif;
+	font-size: 16px;
+	font-weight: 400px;
+	color:#626262; 
+
+}
+header{}
+.container{
+	margin: 0 auto;
+	width:  90%;
+	overflow: hidden;
+}
+.logo{
+	width: 15%;
+	float: left;
+}
+.logo img{
+	width: 100%;
+}
+.menu{
+	width: 65%;
+	float: right;
+}
+.menu ul{}
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+.menu ul li a{
+	text-decoration: none;
+}
+.menu ul li:last-child a{}
+.menu ul li a:hover{}
+.banner{}
+.b-img{}
+.b-img img{
+	width: 100%;
+}
+.weekend{}
+.container2{
+	margin: 0 auto;
+	width: 80%;
+	overflow: hidden;
+
+}
+.w-content{}
+.c-tag{
+	margin: 0;
+	font-family: Ubuntu, sans-serif;
+	font-size: 14PX;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+.C-title{
+	font-size: 30PX;
+	font-weight: 400;
+
+}
+.C-text{
+	line-height: 24PX;
+	
+}
+.blog{}
+.s_blog{
+	width: 45%;
+	float: left;
+}
+.s-img{
+	margin-bottom: 25px;
+
+}
+.S-img img{
+	width: 100%;
+}
+
+
